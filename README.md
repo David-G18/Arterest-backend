@@ -46,4 +46,4 @@ tendrán la posibilidad de poder vender en la página.
  - [Martín Araujo](https://github.com/MNAHEAVY)
  - [Carlos Mamani](https://github.com/Carlos7847)
  - [Anibal Alvarez](https://github.com/1alvrz)
- - [David Gonzales](https://github.com/David-G18)
+ - [David Gutiérrez](https://github.com/David-G18)
